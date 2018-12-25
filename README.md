@@ -3,7 +3,7 @@
 This is MATLAB toolbox on complex network node centrality. We suggest you apply this toolbox to networks with no more than 50,000 nodes, because this toolbox may lose efficiency if your complex network is large-scale. The following algorithms are collected, namely,
 <br/>
 
-*<\b Adaptive LeaderRank \b>: Xu, Shuang, and Pei Wang. "Identifying important nodes by adaptive LeaderRank." Physica A: Statistical Mechanics and its Applications 469 (2017): 654-664. http://dx.doi.org/10.1016/j.physa.2016.11.034.
+* Adaptive LeaderRank: Xu, Shuang, and Pei Wang. "Identifying important nodes by adaptive LeaderRank." Physica A: Statistical Mechanics and its Applications 469 (2017): 654-664. http://dx.doi.org/10.1016/j.physa.2016.11.034.
 
 *CbC: Zhao, Zhiying, et al. "A community-based approach to identifying influential spreaders." Entropy 17.4 (2015): 2228-2252. https://dx.doi.org/10.3390/e17042228
 
