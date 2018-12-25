@@ -4,6 +4,7 @@ This is MATLAB toolbox on complex network node centrality. We suggest you apply 
 <br/>
 
 * Adaptive LeaderRank: Xu, Shuang, and Pei Wang. "Identifying important nodes by adaptive LeaderRank." Physica A: Statistical Mechanics and its Applications 469 (2017): 654-664. http://dx.doi.org/10.1016/j.physa.2016.11.034.
+
 *CbC: Zhao, Zhiying, et al. "A community-based approach to identifying influential spreaders." Entropy 17.4 (2015): 2228-2252. https://dx.doi.org/10.3390/e17042228
 *ClusterRank: Chen D-B, et al. (2013) Identifying Influential Nodes in Large-Scale Directed Networks: The Role of Clustering. PLoS ONE 8(10): e77455. https://dx.doi.org/10.1371/journal.pone.0077455
 *H-index family (Degree, Coreness, H-index): Lu L, et al. The H-index of a network node and its relation to degree and coreness[J]. Nature communications, 2016, 7.
